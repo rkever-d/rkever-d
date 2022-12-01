@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rkever-d
-- 🌱 I manage the new DesignOps team within Advisory Hybrid-Operate
-- 📫 I can be reached at rkever@deloite.com
+- 🌱 I manage the DesignOps team within Advisory Hybrid-Operate
 
 <!---
 rkever-d/rkever-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
